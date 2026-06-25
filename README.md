@@ -1,6 +1,7 @@
 # OKX Price Floating Window
 
 Windows 桌面 OKX 行情悬浮窗，支持现货、永续、交割和期权搜索添加，最多显示 4 个标的。
+<img width="431" height="116" alt="ui_check_percent" src="https://github.com/user-attachments/assets/ab53b804-f2b7-4ef0-a80d-f2fba82d83e5" />
 
 ## 功能
 
@@ -24,4 +25,3 @@ python build.py
 ```
 
 产物输出到 `dist/OKX_Price.exe`。
-<img width="431" height="116" alt="ui_check_percent" src="https://github.com/user-attachments/assets/ab53b804-f2b7-4ef0-a80d-f2fba82d83e5" />
