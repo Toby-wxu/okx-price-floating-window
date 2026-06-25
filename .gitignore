@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.trae/
+
+build/
+dist/
+build_debug/
+dist_debug/
+*.spec
+
+OKX_Price_settings.json
+ui_check*.png
+out.txt
+err.txt
