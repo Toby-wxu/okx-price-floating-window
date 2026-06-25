@@ -24,3 +24,4 @@ python build.py
 ```
 
 产物输出到 `dist/OKX_Price.exe`。
+<img width="431" height="116" alt="ui_check_percent" src="https://github.com/user-attachments/assets/ab53b804-f2b7-4ef0-a80d-f2fba82d83e5" />
